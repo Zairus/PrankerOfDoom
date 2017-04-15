@@ -1,0 +1,16 @@
+[
+{
+  "modid": "prankerofdoom",
+  "name": "Pranker Of Doom",
+  "description": "the Pranker of Doom - yes! Pranks!",
+  "version": "0.0.1-alpha",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Iskall85","Winter_Grave"],
+  "credits": "Iskall85",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
